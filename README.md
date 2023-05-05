@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# My name is Maylon Rodriguez!
+ I am an aspiring Software Engineer from South Florida.
 <!--
 **MaylonRod/MaylonRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
