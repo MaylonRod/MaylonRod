@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # My name is Maylon Rodriguez!
- I am an aspiring Software Engineer from South Florida.
+ I am an aspiring Software Engineer from South Florida. I will be attending Tech Elevator's May 15 NLR cohort to further improve my skills and make myself career-ready.
 <!--
 **MaylonRod/MaylonRod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
